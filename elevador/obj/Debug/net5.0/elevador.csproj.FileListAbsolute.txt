@@ -1,0 +1,16 @@
+/home/carlos/MS-OCEAN/elevador/obj/Debug/net5.0/elevador.csproj.AssemblyReference.cache
+/home/carlos/MS-OCEAN/elevador/obj/Debug/net5.0/elevador.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/MS-OCEAN/elevador/obj/Debug/net5.0/elevador.AssemblyInfoInputs.cache
+/home/carlos/MS-OCEAN/elevador/obj/Debug/net5.0/elevador.AssemblyInfo.cs
+/home/carlos/MS-OCEAN/elevador/obj/Debug/net5.0/elevador.csproj.CoreCompileInputs.cache
+/home/carlos/MS-OCEAN/elevador/bin/Debug/net5.0/elevador
+/home/carlos/MS-OCEAN/elevador/bin/Debug/net5.0/elevador.deps.json
+/home/carlos/MS-OCEAN/elevador/bin/Debug/net5.0/elevador.runtimeconfig.json
+/home/carlos/MS-OCEAN/elevador/bin/Debug/net5.0/elevador.runtimeconfig.dev.json
+/home/carlos/MS-OCEAN/elevador/bin/Debug/net5.0/elevador.dll
+/home/carlos/MS-OCEAN/elevador/bin/Debug/net5.0/ref/elevador.dll
+/home/carlos/MS-OCEAN/elevador/bin/Debug/net5.0/elevador.pdb
+/home/carlos/MS-OCEAN/elevador/obj/Debug/net5.0/elevador.dll
+/home/carlos/MS-OCEAN/elevador/obj/Debug/net5.0/ref/elevador.dll
+/home/carlos/MS-OCEAN/elevador/obj/Debug/net5.0/elevador.pdb
+/home/carlos/MS-OCEAN/elevador/obj/Debug/net5.0/elevador.genruntimeconfig.cache
